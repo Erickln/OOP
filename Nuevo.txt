@@ -1,0 +1,4 @@
+Este es mi primer archivo de texto creado desde Java
+Espero que funcione correctamente
+Qué tristeza que no se escribió nada y lo escribí con muchas ganas
+FIN
